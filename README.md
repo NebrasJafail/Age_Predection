@@ -27,6 +27,7 @@ Predicts the age group of a face image (child, teen, young adult, adult, senior)
 | KNN + GridSearchCV | ... |
 
 ## App
+- The link: https://agepredection.streamlit.app/
 - Upload a photo or use the webcam
 - The app finds the face, makes it gray and 32x32, then predicts the age group
 
